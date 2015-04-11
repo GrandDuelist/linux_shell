@@ -1,0 +1,2 @@
+#!/bin/bash  
+w3m  -no-cookie https://www.bing.com/search?q=$1
